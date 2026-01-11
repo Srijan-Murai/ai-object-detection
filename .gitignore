@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+facedect/
+venv/
+.env/
+
+# Data & models
+data/
+*.h5
+*.ckpt
+*.weights
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
