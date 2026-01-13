@@ -4,6 +4,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+*.json
 
 # Virtual environments
 facedect/
@@ -16,6 +17,13 @@ data/
 *.ckpt
 *.weights
 logs/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
 
 # OS
 .DS_Store
